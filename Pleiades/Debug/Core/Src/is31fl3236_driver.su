@@ -1,0 +1,14 @@
+../Core/Src/is31fl3236_driver.c:44:6:IS31FL3236_Init	16	static
+../Core/Src/is31fl3236_driver.c:54:6:IS31FL3236_SetChipEnable	16	static
+../Core/Src/is31fl3236_driver.c:62:6:IS31FL3236_WriteRegister	32	static
+../Core/Src/is31fl3236_driver.c:73:6:IS31FL3236_Reset	16	static
+../Core/Src/is31fl3236_driver.c:81:6:IS31FL3236_Update	16	static
+../Core/Src/is31fl3236_driver.c:89:6:IS31FL3236_WriteLEDControl	16	static
+../Core/Src/is31fl3236_driver.c:95:6:IS31FL3236_WriteSelectedLEDControl	32	static
+../Core/Src/is31fl3236_driver.c:109:6:IS31FL3236_RotateSelectedChannels	32	static
+../Core/Src/is31fl3236_driver.c:144:6:IS31FL3236_WriteGlobalLEDControl	24	static
+../Core/Src/is31fl3236_driver.c:155:6:IS31FL3236_WritePWM	16	static
+../Core/Src/is31fl3236_driver.c:161:6:IS31FL3236_WriteSelectedPWM	32	static
+../Core/Src/is31fl3236_driver.c:177:6:IS31FL3236_WriteRGBPWM	24	static
+../Core/Src/is31fl3236_driver.c:190:6:IS31FL3236_SetSoftwareShutdown	16	static
+../Core/Src/is31fl3236_driver.c:201:16:__IS31FL3236_Select_Color	16	static
