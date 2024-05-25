@@ -1,2 +1,0 @@
-# Pleiades
- Pleiades Firmware

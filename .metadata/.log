@@ -1,0 +1,33 @@
+!SESSION 2024-05-25 16:54:02.587 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-05-25 16:54:23.842
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-05-25 16:54:23.851
+!MESSAGE Log4j2 initialized with config file C:\Users\TechRave\Desktop\AmStar\Pleiades_Sensor_Integration\Pleiades-Sensor-Integration\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-25 16:54:26.936
+!MESSAGE Started RMI Server, listening on port 41340
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-05-25 16:55:49.654
+!MESSAGE Indexed 'Pleiades-Sensor-Integration' (35 sources, 98 headers) in 4.66 sec: 11,527 declarations; 97,229 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0018%)
+!SESSION 2024-05-25 16:58:25.453 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-05-25 16:58:34.853
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-05-25 16:58:34.854
+!MESSAGE Log4j2 initialized with config file C:\Users\TechRave\Desktop\AmStar\Pleiades_Sensor_Integration\Pleiades-Sensor-Integration\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-25 16:58:40.441
+!MESSAGE Started RMI Server, listening on port 41340
